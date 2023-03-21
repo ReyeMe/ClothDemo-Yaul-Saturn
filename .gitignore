@@ -1,0 +1,9 @@
+build/
+cd/*.TXT
+cd/A.BIN
+*.iso
+*.cue
+A.BIN
+ABS.TXT
+BIB.TXT
+CPY.TXT
